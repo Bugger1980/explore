@@ -723,7 +723,7 @@
           
             "4ian/GDevelop",
           
-            "urho3d/Urho3D",
+            "urho3d/urho3d",
           
             "methusalah/OpenRTS",
           
@@ -1779,8 +1779,6 @@
     {
         "items": [
           
-            "n3omaster/bachecubano",
-          
             "codestrange",
           
             "codestrange/matcom-messenger",
@@ -1989,7 +1987,7 @@
           
             "CRED-CLUB/synth-android",
           
-            "resetercss/reseter.css",
+            "krshkun/gardevoir",
           
             "pupilfirst/pupilfirst",
           
@@ -2097,13 +2095,13 @@
           
             "pashmaklang/pashmak",
           
-            "sobhe/moratab",
+            "roshan-research/moratab",
           
             "PyFarsi/pyabr",
           
             "jamedadi/yummy",
           
-            "sobhe/hazm",
+            "roshan-research/hazm",
           
             "rastikerdar/vazirmatn",
           
@@ -2179,7 +2177,7 @@
           
             "fastify/fastify",
           
-            "immuni-app/immuni",
+            "immuni-app/.github",
           
             "italia/covid19-opendata-vaccini",
           
@@ -3797,11 +3795,7 @@
           
             "olofk/serv",
           
-            "chipsalliance/Cores-SweRV",
-          
-            "chipsalliance/Cores-SweRV-EL2",
-          
-            "chipsalliance/Cores-SweRV-EH2",
+            "chipsalliance/Cores-VeeR-EH1",
           
             "ultraembedded/biriscv",
           
